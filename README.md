@@ -27,7 +27,7 @@
 
 ## License
 
-This project is proprietary and the source code is not available for public distribution. For more information about licensing and usage, please contact us directly.
+This project is proprietary and the source code is not available for public distribution. For more information about licensing and usage, please contact me or Air Lift directly.
 
 ## Acknowledgments
 
