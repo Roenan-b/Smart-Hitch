@@ -32,7 +32,6 @@ This project is proprietary and the source code is not available for public dist
 ## Acknowledgments
 
 - Special thanks to the development team for their hard work and dedication.
-- Appreciation to our beta testers for their invaluable feedback.
 
 ## Contact
 
